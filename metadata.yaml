@@ -1,0 +1,5 @@
+homepage: "https://pushninja.com"
+documentation: ""
+versions:
+  - sha: d4ea375e97e48d98a11c37c13b76cdc652e3b347
+    changeNotes: Initial release.
