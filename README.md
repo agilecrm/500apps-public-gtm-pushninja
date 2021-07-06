@@ -1,1 +1,1 @@
-# infinity-pushninja
+# PushNinja
