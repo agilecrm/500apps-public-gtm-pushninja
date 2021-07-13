@@ -1,5 +1,9 @@
 homepage: "https://pushninja.com"
 documentation: ""
 versions:
+  # Latest version
+  - sha: 9671822bd1a72946803f671ddc8402e571ba30b6
+    changeNotes: Fixed the gtm url.
+  # Older versions  
   - sha: d4ea375e97e48d98a11c37c13b76cdc652e3b347
     changeNotes: Initial release.
