@@ -14,7 +14,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "PushNinja by 500apps",
+  "displayName": "PushNinja by 500apps (Web Push Notifications)",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
@@ -33,13 +33,14 @@ ___TEMPLATE_PARAMETERS___
   {
     "type": "TEXT",
     "name": "api_key",
-    "displayName": "Enter the api key.",
+    "displayName": "PushNinja Key",
     "simpleValueType": true,
     "valueValidators": [
       {
         "type": "NON_EMPTY"
       }
-    ]
+    ],
+    "help": "Please copy the PushNinja Key from the share script sidebar in the application."
   }
 ]
 
@@ -116,6 +117,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 7/13/2021, 9:07:17 PM
+Created on 7/22/2021, 4:35:06 PM
 
 
