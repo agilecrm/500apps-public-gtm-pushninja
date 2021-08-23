@@ -49,7 +49,8 @@ ___SANDBOXED_JS_FOR_WEB_TEMPLATE___
 
 const log = require('logToConsole');
 const injectScript = require('injectScript');
-const api_key = data.api_key;
+const encodeUriComponent = require('encodeUriComponent');
+const api_key =  encodeUriComponent(data.api_key);
 const trackingUrl='https://gtm.500apps.com/gtm/push/'+api_key+'.js';
 log('data = verify', trackingUrl);
 injectScript(trackingUrl,data.gtmOnSuccess,data.gtmOnFailure);
