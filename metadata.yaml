@@ -2,8 +2,8 @@ homepage: "https://pushninja.com"
 documentation: ""
 versions:
   # Latest version
+  - sha: 052db01ff12cda2f4d68ff58fd3b6d592a18bab6
+    changeNotes: Added the encodeUriComponent method.
+  # Older version
   - sha: 1a143822e09c66f9f56f04aaceb8a7dc8ad16908
     changeNotes: updated the description and hint.
-  # Older versions
-  - sha: 4d93eb730943f4b3d508a1d83202363a4f0776dd
-    changeNotes: Added the helptext and changed the label.
