@@ -14,7 +14,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "PushNinja by 500apps (Web Push Notifications)",
+  "displayName": "PushNinja - 500apps",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
