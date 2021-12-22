@@ -2,5 +2,5 @@ homepage: "https://pushninja.com"
 documentation: ""
 versions:
   # Latest version
-  -sha: 8912506b0dad5ada64cc0c21fcfb4fca657e87d1
+  -sha: 4c1444b0faeb97ad538de22325275388cbf38add
    changeNotes: Initial release.
