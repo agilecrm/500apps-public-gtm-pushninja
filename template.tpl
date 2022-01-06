@@ -14,7 +14,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "500apps - PushNinja",
+  "displayName": "PushNinja - 500apps",
   "brand": {
     "id": "brand_dummy",
     "displayName": "",
